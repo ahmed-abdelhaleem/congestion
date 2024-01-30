@@ -1,0 +1,4 @@
+insert into city_tax_configs (id, sid, config_key, config_value, city_id) values ((select nextval('city_tax_configs_id_seq')),'ecc58b6e-3228-4ae7-aa2b-87909506bca1','one_charge_per_minutes','60','1');
+insert into city_tax_configs (id, sid, config_key, config_value, city_id) values ((select nextval('city_tax_configs_id_seq')),'d8e709f9-1b07-4828-b471-9076a139f97a','weekend_tax_free_enabled','true','1');
+insert into city_tax_configs (id, sid, config_key, config_value, city_id) values ((select nextval('city_tax_configs_id_seq')),'ccbb5733-cfaf-47a0-8418-417d948f0b58','tax_free_days_before_holiday_enabled','true','1');
+insert into city_tax_configs (id, sid, config_key, config_value, city_id) values ((select nextval('city_tax_configs_id_seq')),'4eb389b5-c983-494b-8092-977bd11e0803','tax_free_days_before_holiday_number','1','1');

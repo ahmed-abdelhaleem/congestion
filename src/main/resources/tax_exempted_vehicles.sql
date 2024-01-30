@@ -1,0 +1,6 @@
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'db7e7f8c-690b-4070-96b5-8e886f71777d','true','1','1');
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'809e7cc9-a20f-4760-87a7-cdfee1d01c99','true','1','2');
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'717fb280-2cae-4398-a64f-a9bfeacf35dd','true','1','3');
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'2729b0d9-1385-4b95-b5bf-30359f5e9f29','true','1','4');
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'68cf7c80-81f3-4cdc-9c85-7efc70d47af7','true','1','5');
+insert into tax_exempted_vehicles (id,sid,active,city_id,vehicle_id) values ((select nextval('tax_exempted_vehicles_id_seq')),'832f3867-443e-45c8-a1d8-795a3a3c8389','true','1','6');

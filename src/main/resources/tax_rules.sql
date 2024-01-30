@@ -1,0 +1,10 @@
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'0366c51c-b0a4-437f-b8aa-d8596a254968','06:00:00+01:00','06:29:00+01:00','8','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'098122c5-a986-4fa3-ac84-fa41fded08f4','06:30:00+01:00','06:59:00+01:00','13','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'87906c8d-2868-4cf2-bba9-e51212ebec6b','07:00:00+01:00','07:59:00+01:00','18','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'4f06d525-79a3-48b1-b1a0-1d402b547516','08:00:00+01:00','08:29:00+01:00','13','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'aa565aab-f739-46c2-9ab3-f18f293fb70b','08:30:00+01:00','14:59:00+01:00','8','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'aab7eddb-77f3-4e62-8619-1e2a9bc028ea','15:00:00+01:00','15:29:00+01:00','13','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'26b83737-2ced-416e-9904-a4239e0a62a0','15:30:00+01:00','16:59:00+01:00','18','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'cd2d2a56-161d-4b6b-a0db-9da846e08a1b','17:00:00+01:00','17:59:00+01:00','13','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'9e04dd31-06b3-4a27-9e17-6a75343515f0','18:00:00+01:00','18:29:00+01:00','8','1');
+insert into tax_rules (id, sid, start_time, end_time, tax_amount, city_id) values ((select nextval('tax_rules_id_seq')),'66d257ef-a17c-415f-836c-bef927abdb6e','18:30:00+01:00','05:59:00+01:00','0','1');
